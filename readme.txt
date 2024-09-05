@@ -37,5 +37,3 @@ Abre un Pull Request.
 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-
-Este README proporciona una visión general del curso y cómo utilizar el repositorio. ¿Te gustaría añadir o modificar algo más?
