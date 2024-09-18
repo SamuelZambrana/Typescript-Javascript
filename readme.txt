@@ -17,7 +17,7 @@ El curso cubre una variedad de temas fundamentales en programación, incluyendo:
 Para clonar este repositorio y ejecutar los ejemplos localmente, sigue estos pasos:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clonehttps://github.com/SamuelZambrana/Typescript-Javascript/.git
 cd tu-repo
 npm install
 
